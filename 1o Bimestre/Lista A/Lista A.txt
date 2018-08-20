@@ -1,0 +1,137 @@
+Aluno: João Victor Moreira de Souza
+Turma: 2017/2
+
+1) Escreva os possíveis tipos de dados que se enquadram (Inteiro, Real, Caractere, Cadeia Ou Lógico)
+
+456 = inteiro
+Falso = lógico
+"F" = caractere, cadeia
+"V" = caractere, cadeia
+"0,87" = cadeia
+"0" = caractere, cadeia
+"- 9,12" = caractere, cadeia
+"- 900" = caractere, cadeia
+"casa 8" = cadeia
+"cinco" = cadeia
+Verdadeiro = lógico
+0 = inteiro
+1,56 = real
+- 1,56 = real
+34 = inteiro
+45,8976 = real
+- 456 = inteiro
+687 = inteiro
+- 687 = inteiro
+- 99,8 = real
+- 0,01 = real
+1000 = inteiro
+
+2) Assinale um com um X os nomes inválidos para uma variável. Justifique o motivo de serem inválidos.
+
+(X) ENDEREÇO - caractere especial "ç"
+( ) 21BRASIL
+(X) FONE$COM - caractere especial "$"
+( ) NAMEUSER
+(X) NOME_USUÁRIO - caractere especial "Á"
+(X) NOME*USUÁRIO - caractere especial "*"
+(X) END*A-6 - caractere especial "*" e "-"
+( ) CIDADE3
+(X) #CABEC - caractere especial "#"
+( ) REAL
+(X) REAL$ - caractere especial "$"
+(X) SOBRE NOME - espaço " "
+
+3) Informe:
+• Qual a primeira operação matemática a ser executada em cada um dos comandos abaixo.
+• Qual é o resultado de R sabendo que A:=1, B:=2; C:= 4; D:=8
+
+a) R := A + B – C 
+A + B
+R = -1
+
+b) R := A + B / C ^ 2
+B / C ^ 2
+R = 1.125
+
+c) R := A + B / C
+B / C
+R = 1.5
+
+d) R := A + B + C * D
+C * D
+R = 35
+
+e) R := A + D + B ^2 + C * 3
+B ^2
+R = 25
+
+f) R := A * B / C * D
+A * B
+R = 4
+
+4) Analise os seguintes blocos de código dos algoritmos abaixo e diga o que será impresso em tela ao
+serem executados:
+1. X := 22
+2. Y := 11
+3. escreva (Y)
+4. Y : = X
+5. escreva (X)
+
+1122
+
+---------
+
+1. X : = 1
+2. Y : = X + 1
+3. X : = Y + 1
+4. Y : = X + 1
+5. escreva (X)
+6. X := Y + 1
+7. escreva (X)
+
+35
+
+---------
+
+1. X := (8/4)+(4/8)
+2. Y := 8/4+4/8
+3. Z:= 112/64+12
+4. escrevaL (X)
+5. escrevaL (Y)
+6. escrevaL (Z)
+
+0.5
+0.5
+13.75
+
+5) DETERMINE O ESTADO LÓGICO DAS EXPRESSÕES INDICANDO SE SÃO VERDADEIRAS OU FALSAS.
+CONSIDERE OS SEGUINTES VALORES X:=1; A:=3; B:=5; C:=8; D:=7
+a) NAO(X>3)
+verdadeiro
+
+b) (X<1) E NAO(B>D)
+falso
+
+c) NAO(D<0) E (C>5)
+verdadeiro
+
+d) NAO(X>3) OU (C<7)
+verdadeiro
+
+e) NAO((D<0) OU (C>5))
+verdadeiro
+
+f) (A>B) OU (C>B)
+verdadeiro
+
+g) (X>=2)
+falso
+
+h) (X<1) E (B>=D)
+falso
+
+i) NAO(D>3) OU NAO(B<7)
+falso 
+
+j) (A>B) OU NAO(C>B)
+falso
